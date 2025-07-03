@@ -111,7 +111,7 @@ This command would set the UUID of the cloudflared tunnel as a config value, giv
 
 ### 2.3.4 Launch it
 
-That's it, doing the above, should be enough to be able to luach and browse Open edX from anywhere via `tutor local luanch` or `tutor local start`
+That's it, doing the above, should be enough to be able to luach and browse Open edX from anywhere via `tutor local launch` or `tutor local start`
 
 ## 3. Configuation
 
